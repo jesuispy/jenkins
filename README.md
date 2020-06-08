@@ -1,4 +1,3 @@
-# jenkins
-#Useful notes on jenkins
+# Jenkins
 # This is an <h1> tag
 
